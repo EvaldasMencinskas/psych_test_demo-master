@@ -1,0 +1,6 @@
+{% extends 'base.html' %}
+{% block content %}
+    <h1 class="mt-5">Rezultatai išsaugoti</h1>
+    <p class="lead">galite parsisiūsti rezultatus paspaude <a href="/media/results/{{ file }}">čia</a></p>
+    <p class="lead"><a href="{% url 'questions' %}">Bandyti testa dar karta</a></p>
+{% endblock %}

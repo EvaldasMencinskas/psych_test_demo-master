@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block content %}
+    <h1 class="mt-5">Rezultatų failai</h1>
+    <p class="lead">Čia galite parsisiūsti visus rezultatų failus</p>
+    {% if files %}
+        <ul>
+            {% for file in files %}
+                <li>
+                    <a href="/media/results/{{ file }}">{{ file }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <h2 class="mt-5">failų Nėra</h2>
+    {% endif %}
+{% endblock %}

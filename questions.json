@@ -1,0 +1,57 @@
+[
+  {
+    "description": "1. Šiame puslapyje surašyti žodžiai apibūdina skirtingus jausmus ir emocijas. Perskaitykite kiekvieną žodį pažymėkite, kaip dažniausiai jaučiatės, t.y. ne kaip Jūs šiandien jaučiatės, bet kaip jūs apskritai esate linkęs jaustis.",
+
+
+    "option_names": [
+      "Visiškai ne arba labai mažai", "Nelabai"
+      , "Vidutiniškai", "Gana labai", "Labai daug"
+    ],
+    "quiz_questions": [
+      "1. Susidomėjęs",
+            "2. Stiprus",
+            "3. Pilnas įkvėpimo",
+            "4. Energingas",
+            "5. Judrus",
+            "6. Veiklus",
+            "7. Išdidus",
+            "8. Entuziastingas",
+            "9. Ryžtingas",
+            "10. Atidus",
+            "11. Bijantis",
+            "12. Prislėgtas",
+            "13. Kaltas",
+            "14. Neramus",
+            "15. Kenčiantis",
+            "16. Nervingas",
+            "17. Priešiškas",
+            "18. Susigėdęs",
+            "19. Irzlus",
+            "20. Išsigandęs"
+    ]
+  },
+  {
+    "description": "2. Kiek, interviuojant virtualius vaikų avatarus, pojūtis, kad prieš Jus realūs vaikai?",
+    "option_names": [
+      "Visiškai ne arba labai mažai", "Nelabai"
+      , "Vidutiniškai", "Gana labai", "Labai daug"
+    ],
+    "quiz_questions": [
+      "Realumo pojūtis"
+    ]
+  },
+  {
+    "description": "3. Jei jautėte kurį nors iš žemiau išvardintų jausmų, pažymėkite labiausiai tinkantį.",
+    "option_names": [
+      "Visiškai ne arba labai mažai", "Nelabai"
+      , "Vidutiniškai", "Gana labai", "Labai daug"
+    ],
+    "quiz_questions": [
+      "Liūdesys",
+            "Pyktis",
+            "Pasišlykštėjimas",
+            "Nuostaba",
+            "Palengvėjimas"
+    ]
+  }
+]
